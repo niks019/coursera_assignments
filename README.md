@@ -3,7 +3,9 @@ Coursera Module Assignments
 
 Link for the course "HTML, CSS, and Javascript for Web Developers" by Coursera: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
-This repository includes all the solutions of the assignments in the course.
+This repository contains the solutions of the assignments in the course.
+
+---Change the branch from "main" to "gh-pages" branch to view.---
 
 Module-2
 
